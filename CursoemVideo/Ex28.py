@@ -10,4 +10,4 @@ sleep(2)
 if jogador == computador:
     print(' Acertouuuu!😄')
 else:
-    print(' Sinto muito, voce errou!😩 Eu pensei no número {}🤗'.format(computador, jogador))
+    print(' Sinto muito, você errou!😩 Eu pensei no número {}🤗'.format(computador, jogador))
