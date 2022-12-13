@@ -1,9 +1,9 @@
 import math
 
-angulo = float(input('Digite o angulo que voce quer: '))
+angulo = float(input('Digite o ângulo que você quer: '))
 seno= math.sin(math.radians(angulo))
-print('O angulo de {} tem o seno de {:.2f}'.format(angulo, seno))
+print('O ângulo de {} tem o seno de {:.2f}'.format(angulo, seno))
 cosseno = math.cos(math.radians(angulo))
-print('O angulo de {} tem o cosseno de {:.2f}'.format(angulo, cosseno))
+print('O ângulo de {} tem o cosseno de {:.2f}'.format(angulo, cosseno))
 tangente = math.tan(math.radians(angulo))
-print('O angulo de {} tem o tangente de {:.2f}'.format(angulo, tangente))
+print('O ângulo de {} tem o tangente de {:.2f}'.format(angulo, tangente))
